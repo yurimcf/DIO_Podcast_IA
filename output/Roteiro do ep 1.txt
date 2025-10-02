@@ -1,0 +1,22 @@
+# 🎙️ Roteiro — Episódio 1
+
+**Podcast: O Império dos Bastidores – Dicas e novidades sobre o que move o mundo tech**
+
+[INTRODUÇÃO]
+"Fala, galeraaa! Yuri aqui, e sejam muito bem-vindos ao *Império dos Bastidores*! O podcast onde a gente vai explorar o lado oculto da tecnologia, aquele motor que roda por trás de tudo o que você vê na tela. É como se fosse a Estrela da Morte da programação, sabe? Por fora você vê o brilho, mas é lá dentro, nos bastidores, que a engrenagem funciona de verdade! Então já prepara o café, ajeita a cadeira e bora mergulhar nesse universo que parece magia, mas é só lógica e código!"
+
+---
+
+[CURIOSIDADE 1]
+"Você sabia que lógica de programação é tipo montar LEGO? Sério! Cada pecinha é uma instrução simples, mas quando você conecta da forma certa, cria um castelo inteiro. A lógica nada mais é do que o passo a passo pra ensinar o computador a pensar. Por exemplo: se você disser pro computador 'se chover, pega o guarda-chuva', ele não vai discutir, não vai perguntar nada… ele só vai executar. É tipo um Stormtrooper, segue ordem sem pensar duas vezes. Por isso, entender lógica é o primeiro superpoder de quem quer dominar os bastidores da tecnologia."
+
+---
+
+[CURIOSIDADE 2]
+"E já que a gente tá falando de superpoder, deixa eu te contar de uma ferramenta muito usada no mundo dos bastidores: o **MySQL**. Imagina uma grande biblioteca Jedi, cheia de livros organizados por assunto. O MySQL funciona assim, só que com dados! Ele guarda, organiza e deixa você consultar informações de forma rápida. Quer saber todos os clientes que compraram pizza ontem? Tá lá no banco de dados. Quer buscar os pontos de vida de um personagem num jogo online? Tá lá também! Ele é como aquele mestre bibliotecário do Templo Jedi: sabe onde tá cada informação e entrega rapidinho pra você."
+
+---
+
+[FINALIZAÇÃO]
+"Então é isso, galera! Hoje a gente falou sobre lógica, essa base que é tipo o alicerce da sua fortaleza, e sobre o MySQL, que é praticamente o guardião dos dados no universo tech. Se você tá começando agora no caminho da Força dos bastidores, continua firme! Cada dia estudando é uma nova habilidade desbloqueada, tipo ganhar XP num RPG. Valeu por acompanhar o *Império dos Bastidores*, e eu te vejo no próximo episódio. Até lá, que a lógica esteja com você!"
+
